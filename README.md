@@ -52,4 +52,4 @@ Optimized the model using hyperparameter tuning for improved accuracy.
 
 ▪️Developed skills in data visualization to communicate insights effectively.
 
-▪️Learned to evaluate and compare machine l
+▪️Learned to evaluate and compare machine learning models.
